@@ -1,9 +1,9 @@
-
 # 🐍 Python Exercises
 
 A collection of Python practice scripts covering core programming concepts — from basics to OOP.
 
 ---
+
 
 ## 📁 File Overview
 
